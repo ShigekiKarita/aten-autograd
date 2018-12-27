@@ -1,0 +1,6 @@
+[submodule "ATen"]
+	path = ATen
+	url = https://github.com/zdevito/ATen
+[submodule "atnn/cxx14_thread_pool"]
+	path = atnn/cxx14_thread_pool
+	url = https://github.com/ShigekiKarita/cxx14_thread_pool.git

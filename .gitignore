@@ -1,0 +1,15 @@
+*
+!*/
+!*.hpp
+!*.cpp
+!Makefile
+!.gitignore
+!.gitmodules
+!*.md
+!*.ipynb
+.ipynb_checkpoints
+
+test/build/
+test/*-build/
+!test/data/*.sh
+
